@@ -12,15 +12,22 @@ I am writing this letter to you all as a courtesy. cumOS in it's current state i
 - use more than 16 colors
 - work with USB devices<br/>
 just to name a few! i, again, deeply apologize for the delay, but this is needed to make cumOS truly shine. if there's one thing i know about the cumOS community, I know that we can persevere and wait. this is the future. this is cumOS 2.0.
-### October 2023: cumOS 2.0 progress update & beta announcement
+### October 2023: cumOS 2.0 progress update, beta announcement, cumOS 2.1 announcement
 Good morning cumOS enthusiasts,
 I am happy to report that the rewrite of cumOS has been going swimmingly, and a beta version will be available Saturday. thanks to the improved architecture, cumOS 2.0 brings many beloved features to the cumOS experience:
 - USB support (keyboards only)
 - Commandline interpreter (allows you to run commands, like cd, ls, mkdir, etc.)
 - SDK! Write your own apps for cumOS using the C programming language (Rust coming soon)
 -More than 16 colors
-- Ability to do math with numbers higher than 32,168
-cumOS 2.0 will be the next big thing in personal computing, right after cumOS 1.0 took the personal cumputing world by storm earlier this year. this is the future. this is cumOS 2.0: the voice of a generation
+- Ability to do math with numbers higher than 32,168<br/>
+cumOS 2.0 will be the next big thing in personal computing, right after cumOS 1.0 took the personal cumputing world by storm earlier this year. this is the future. this is cumOS 2.0: the voice of a generation<br/>
+cumOS 2.1 enters alpha next month, and it continues to evolve on the already advanced cumOS 2.0. cumOS 2.1 contains bug fixes and new features which are sure to make your cumOS experience even better than it already is:
+- multitasking
+- filesystem (cumFS)
+- more SDK functionality (e.g. you can change the color of text now!)
+- bug fixes
+- and more!
+<br/> i’m super excited for you all to see the incredible updates in cumOS 2.1! cumOS 2.1 enters alpha testing in late November (release date soon), and it releases later next month. thank you all for being patient, you won’t regret it!
 ### cumOS 2.0 Roadmap: The present, the future, and the past
 # October 2023
 ## Late October
