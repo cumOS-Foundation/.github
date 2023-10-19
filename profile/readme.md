@@ -28,7 +28,7 @@ cumOS 2.1 enters alpha next month, and it continues to evolve on the already adv
 - more SDK functionality (e.g. you can change the color of text now!)
 - bug fixes
 - and more!
-<br/> i’m super excited for you all to see the incredible updates in cumOS 2.1! cumOS 2.1 enters alpha testing in late November (release date soon), and it releases later next month. thank you all for being patient, you won’t regret it!
+<br/> i’m super excited for you all to see the incredible updates in cumOS 2.1! cumOS 2.1 enters alpha testing in late November (release date soon), and it releases later next month. thank you all for being patient, you won’t regret it! <br/>
 ### cumOS 2.0 Roadmap: The present, the future, and the past
 # October 2023
 ## Late October
