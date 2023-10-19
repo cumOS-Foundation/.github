@@ -21,6 +21,7 @@ I am happy to report that the rewrite of cumOS has been going swimmingly, and a 
 -More than 16 colors
 - Ability to do math with numbers higher than 32,168<br/>
 cumOS 2.0 will be the next big thing in personal computing, right after cumOS 1.0 took the personal cumputing world by storm earlier this year. this is the future. this is cumOS 2.0: the voice of a generation<br/>
+<hr/>
 cumOS 2.1 enters alpha next month, and it continues to evolve on the already advanced cumOS 2.0. cumOS 2.1 contains bug fixes and new features which are sure to make your cumOS experience even better than it already is:
 - multitasking
 - filesystem (cumFS)
