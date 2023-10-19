@@ -10,7 +10,7 @@ I am writing this letter to you all as a courtesy. cumOS in it's current state i
 - have multitasking
 - use a custom boot process
 - use more than 16 colors
-- work with USB devices
+- work with USB devices<br/>
 just to name a few! i, again, deeply apologize for the delay, but this is needed to make cumOS truly shine. if there's one thing i know about the cumOS community, I know that we can persevere and wait. this is the future. this is cumOS 2.0.
 ### October 2023: cumOS 2.0 progress update & beta announcement
 Good morning cumOS enthusiasts,
